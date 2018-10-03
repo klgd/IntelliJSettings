@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.go" />
+    <recentFileMasks>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.ess</mask>
+      <mask>*.ss</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.s</mask>
+      <mask>*.v</mask>
+      <mask>*.vu</mask>
+      <mask>*.vue</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.jss</mask>
+      <mask>*.js</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
+      <mask>*.php</mask>
+      <mask>*.go</mask>
+    </recentFileMasks>
+  </component>
+</application>
