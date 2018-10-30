@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null-terminated string prepended by dword string length" />
       <item value="iconv 报E_NOTICE错" />
       <item value="iconv 报错" />
       <item value="我导入中文excel" />
       <item value="我在导入中文excel" />
-      <item value="null-terminated string prepended by dword string length" />
       <item value="super" />
       <item value="Enclosure" />
       <item value="排除" />
@@ -34,7 +34,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
