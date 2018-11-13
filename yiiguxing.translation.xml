@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this function is under construction, needs to support rich text, and Asian phonetic settings" />
+      <item value="Read Unicode string with no string length field, but with known character count" />
       <item value="Integrity constraint violation: 1052 Column 'school_id' in where clause is ambiguous" />
       <item value="Determine if the request contains a given input item key" />
       <item value="Determine if the current request probably expects a JSON response." />
@@ -37,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
